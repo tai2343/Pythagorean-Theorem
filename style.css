@@ -1,0 +1,9 @@
+label, input, button{
+    display: block;
+    margin:0.5rem 0;
+  } 
+  
+  #message{
+    display: block;
+    margin:0.5rem 0;
+  }
